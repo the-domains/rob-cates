@@ -4,8 +4,15 @@
         <description><![CDATA[Robert Cates]]></description>
         <link>https://thegrid.ai/rob-cates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 15:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 15:44:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rob-cates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>rob@robcates.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4a0653-065b-48e7-b900-d810f55939bb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rob-cates/contact/index.html</link>
+            <guid isPermaLink="false">c235732c-8d11-4128-bae1-ebdc554897c5</guid>
+            <pubDate>Sun, 31 Jul 2016 15:43:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<article><h1>Services</h1><p>One-to-one and group vocal coaching (singing & speech/presentation skills) including preparation for Trinity Rock and Rock School graded Examinations in Rock and Pop vocals</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f032f15-4a7f-40ca-a7b3-1c570abf9e90.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/rob-cates/robert-cates/index.html</link>
             <guid isPermaLink="false">390365ae-8c6e-45ad-b121-2d562cf0f797</guid>
             <pubDate>Sun, 31 Jul 2016 15:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>rob@robcates.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4a0653-065b-48e7-b900-d810f55939bb.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4a0653-065b-48e7-b900-d810f55939bb.jpg</link>
-            <guid isPermaLink="false">c235732c-8d11-4128-bae1-ebdc554897c5</guid>
-            <pubDate>Sun, 31 Jul 2016 15:36:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
