@@ -1,20 +1,4 @@
-name: Robert Cates
-favicon: null
-layout_spectrum: 0.36689
 typography_spectrum: 0.887
-title: Robert Cates
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#191919'
@@ -26,4 +10,21 @@ color:
   lightness: 0.25
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.36689
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Robert Cates
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Robert Cates
+description: 'Singer-Songwriter, Vocal Coach, Worship Leader'
 purpose: []
