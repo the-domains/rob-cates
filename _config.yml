@@ -31,6 +31,9 @@ navigation:
   - name: Services
     id: c1b65395-9c81-4726-9c05-775fdd8e7fa8
     type: content
+  - name: Contact
+    id: c235732c-8d11-4128-bae1-ebdc554897c5
+    type: content
 favicon: null
 title: Robert Cates
 description: 'Singer-Songwriter, Vocal Coach, Worship Leader'
