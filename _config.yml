@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: 3a931c72-2398-4b21-aabb-148398c12661
+    type: content
 favicon: null
 title: Robert Cates
 description: 'Singer-Songwriter, Vocal Coach, Worship Leader'
