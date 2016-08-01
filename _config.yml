@@ -1,4 +1,6 @@
 typography_spectrum: 0.887
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#191919'
@@ -19,6 +21,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/03387bf6-9b4a-4594-b551-42b81688fde7.png
 name: Robert Cates
 cta:
   domain: null
@@ -35,6 +39,6 @@ navigation:
     id: c235732c-8d11-4128-bae1-ebdc554897c5
     type: content
 favicon: null
-title: Robert Cates
+title: 'Singer-songwriter, Vocal Coach, Worship Leader'
 description: 'Singer-Songwriter, Vocal Coach, Worship Leader'
 purpose: []
