@@ -51,6 +51,6 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/03387bf6-9b4a-4594-b551-42b81688fde7.png
 typography_spectrum: 0.5085106
-layout_spectrum: 1
+layout_spectrum: 0.1531915
 content_rating:
   adult: false
