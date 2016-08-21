@@ -1,5 +1,44 @@
-title: 'Singer-songwriter, Vocal Coach, Worship Leader'
-purpose: []
+typography_spectrum: 0.7723404
+content_rating:
+  adult: false
+color:
+  saturation: 0.8125
+  brandStrength: 0.9468085
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#191919'
+    - '#434343'
+    - '#bcbcbc'
+    - '#737373'
+    - '#e8e8e8'
+  lightness: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.387234
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/321a46c8-8b95-4d67-9418-54b0d5d85cf9.png
+name: Robert Cates
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About
+    id: 3a931c72-2398-4b21-aabb-148398c12661
+    type: content
+  - name: Services
+    id: c1b65395-9c81-4726-9c05-775fdd8e7fa8
+    type: content
+  - name: Contact
+    id: c235732c-8d11-4128-bae1-ebdc554897c5
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,45 +51,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-description: 'Singer-Songwriter, Vocal Coach, Worship Leader'
-color:
-  saturation: 0.8125
-  brandStrength: 0.9468085
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#191919'
-    - '#434343'
-    - '#bcbcbc'
-    - '#737373'
-    - '#e8e8e8'
-  lightness: 0.25
-navigation:
-  - name: About
-    id: 3a931c72-2398-4b21-aabb-148398c12661
-    type: content
-  - name: Services
-    id: c1b65395-9c81-4726-9c05-775fdd8e7fa8
-    type: content
-  - name: Contact
-    id: c235732c-8d11-4128-bae1-ebdc554897c5
-    type: content
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Robert Cates
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/321a46c8-8b95-4d67-9418-54b0d5d85cf9.png
-typography_spectrum: 0.7723404
-layout_spectrum: 0.2042553
-content_rating:
-  adult: false
+title: Robert Cates
+description: ''
+purpose: []
