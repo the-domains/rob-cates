@@ -4,7 +4,7 @@
         <description><![CDATA[Robert Cates]]></description>
         <link>http://robcates.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 16:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 16:23:52 GMT</lastBuildDate>
         <atom:link href="http://robcates.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robert Cates]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ea02470-7ccb-401a-98c1-9e3a70ab0e24.png</link>
             <guid isPermaLink="false">83bd0e49-46f7-4f80-a469-d6c83962ce42</guid>
             <pubDate>Sun, 21 Aug 2016 16:23:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Robert M. Cates BMus(Hons) MA PGCE QTS Fellow of the College of Teachers, Chartered London Teacher</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b06ed76-0188-47dd-a31e-9794521b499e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b06ed76-0188-47dd-a31e-9794521b499e.jpg</link>
+            <guid isPermaLink="false">3a931c72-2398-4b21-aabb-148398c12661</guid>
+            <pubDate>Sun, 21 Aug 2016 16:23:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Services]]></title>
