@@ -1,33 +1,29 @@
-typography_spectrum: 0.7723404
-content_rating:
-  adult: false
+title: 'Singer-songwriter, Vocal Coach, Worship Leader'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: 'Singer-Songwriter, Vocal Coach, Worship Leader'
 color:
   saturation: 0.8125
   brandStrength: 0.9468085
-  lightness: 0.25
+  rhythmicContrast: 0.75
   brandColors:
     - '#191919'
     - '#434343'
     - '#bcbcbc'
     - '#737373'
     - '#e8e8e8'
-  rhythmicContrast: 0.75
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.1425532
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/321a46c8-8b95-4d67-9418-54b0d5d85cf9.png
-name: Robert Cates
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.25
 navigation:
   - name: About
     id: 3a931c72-2398-4b21-aabb-148398c12661
@@ -38,19 +34,23 @@ navigation:
   - name: Contact
     id: c235732c-8d11-4128-bae1-ebdc554897c5
     type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Robert Cates
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: 'Singer-songwriter, Vocal Coach, Worship Leader'
-description: 'Singer-Songwriter, Vocal Coach, Worship Leader'
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/321a46c8-8b95-4d67-9418-54b0d5d85cf9.png
+typography_spectrum: 0.7723404
+layout_spectrum: 0.3297872
+content_rating:
+  adult: false
