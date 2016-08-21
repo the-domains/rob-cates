@@ -21,7 +21,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad89500-9805-4bdb-89a9-35754777f380.png
 name: Robert Cates
 cta:
   bucket: null
