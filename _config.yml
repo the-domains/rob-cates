@@ -1,5 +1,6 @@
-layout_spectrum: 0.8273854302242398
 typography_spectrum: 0.8361146973911673
+content_rating:
+  adult: false
 color:
   saturation: 0.16740249446593225
   brandStrength: 0.20701915305107832
@@ -11,18 +12,16 @@ color:
     - '#4D4D4D'
     - '#333333'
   lightness: 0.7283607970457524
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8273854302242398
 analytics:
   twitter: null
   google: null
   facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad89500-9805-4bdb-89a9-35754777f380.png
+logo: null
 name: Robert Cates
 cta:
   bucket: null
