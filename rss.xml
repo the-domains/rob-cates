@@ -4,7 +4,7 @@
         <description><![CDATA[Robert Cates]]></description>
         <link>http://robcates.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 08:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 08:54:46 GMT</lastBuildDate>
         <atom:link href="http://robcates.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -23,9 +23,9 @@
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>rob@robcates.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4a0653-065b-48e7-b900-d810f55939bb.jpg"></article>]]></description>
-            <link>http://robcates.com/contact/index.html</link>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4a0653-065b-48e7-b900-d810f55939bb.jpg</link>
             <guid isPermaLink="false">c235732c-8d11-4128-bae1-ebdc554897c5</guid>
-            <pubDate>Wed, 03 Aug 2016 14:45:58 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2016 08:54:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
